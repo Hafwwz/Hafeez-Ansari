@@ -1,0 +1,45 @@
+/*=========================
+	FONT COLOR
+=========================*/
+.product-carousel .owl-nav .owl-prev::before, 
+.product-carousel .owl-nav .owl-next::before,
+.product-caro .owl-prev:hover:before, 
+.product-caro .owl-next:hover:before,
+.useful-links > li > a:hover,
+.list-cardmeta > i
+{
+	color: #ef0156;	
+}
+
+
+svg{
+stroke: #fff;
+}
+path.icon{
+	fill: #fff;
+}
+
+
+/*=========================
+	BACKGROUND COLOR
+=========================*/
+.search-from > button
+{
+	background: #ef0156;
+}
+
+.stroke-solid {
+	fill: #ef0156;
+}
+
+
+
+/*=========================
+	BORDER COLOR
+=========================*/
+.search-from > input,
+.search-from .chosen-container .chosen-single
+{
+	border-color: #ef0156;	
+}
+
